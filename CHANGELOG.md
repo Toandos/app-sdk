@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/Toandos/app-sdk/compare/v1.2.0...v1.2.1) (2026-09-11)
+
+
+### Bug Fixes
+
+* **cd:** Missing permission in release flow ([5ec9b95](https://github.com/Toandos/app-sdk/commit/5ec9b950c4e115741388c0ba4f7f074decbfb6e2))
+
 ## [1.2.0](https://github.com/Toandos/app-sdk/compare/v1.1.0...v1.2.0) (2026-09-11)
 
 
