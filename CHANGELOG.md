@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/Toandos/app-sdk/compare/v1.2.1...v1.2.2) (2026-09-11)
+
+
+### Bug Fixes
+
+* Wrong file extension in package exports ([6ea7800](https://github.com/Toandos/app-sdk/commit/6ea7800e5aa755e2659f8481226e35d06a0824ce))
+
 ## [1.2.1](https://github.com/Toandos/app-sdk/compare/v1.2.0...v1.2.1) (2026-09-11)
 
 
