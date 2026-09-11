@@ -1,0 +1,34 @@
+{
+  "name": "@toando/app-sdk",
+  "version": "1.0.0",
+  "description": "SDK for building applications that integrate with the Toando Hub",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toandos/app-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Toandos/app-sdk/issues"
+  },
+  "homepage": "https://github.com/Toandos/app-sdk#readme",
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^7.0.2"
+  }
+}
