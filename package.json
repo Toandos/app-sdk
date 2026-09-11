@@ -13,8 +13,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup",
-    "dev": "tsup --watch"
+    "build": "tsdown",
+    "typecheck": "tsgo --noEmit"
   },
   "repository": {
     "type": "git",
@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Toandos/app-sdk#readme",
   "devDependencies": {
-    "tsup": "^8.5.1",
+    "tsdown": "^0.23.0",
     "typescript": "^7.0.2"
   },
   "allowScripts": {
