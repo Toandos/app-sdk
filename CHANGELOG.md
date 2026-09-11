@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Toandos/app-sdk/compare/v1.1.0...v1.2.0) (2026-09-11)
+
+
+### Features
+
+* **cd:** Publish to npm using trusted publishing ([c5a7024](https://github.com/Toandos/app-sdk/commit/c5a70247227524ebe96f2103ef85630eb959c776))
+
 ## [1.1.0](https://github.com/Toandos/app-sdk/compare/v1.0.0...v1.1.0) (2026-09-11)
 
 
