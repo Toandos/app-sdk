@@ -1,2 +1,2 @@
-export * from "./frontend"
-export * from "./backend"
+export * from "./frontend/index"
+export * from "./backend/index"
