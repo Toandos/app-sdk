@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/Toandos/app-sdk/compare/v1.2.2...v1.3.0) (2026-09-12)
+
+
+### Features
+
+* **backend:** Add oidc client ([40ce491](https://github.com/Toandos/app-sdk/commit/40ce4913af88ecf548d3f03a88d83562ba4841e3))
+
+
+### Bug Fixes
+
+* Not using type import/exports properly ([5e297bf](https://github.com/Toandos/app-sdk/commit/5e297bfee47a813ffea21140e090487bfa867e01))
+
 ## [1.2.2](https://github.com/Toandos/app-sdk/compare/v1.2.1...v1.2.2) (2026-09-11)
 
 
