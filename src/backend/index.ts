@@ -1,7 +1,7 @@
-import { OidcClientOptions, OidcClient } from "./oidc/OidcClient"
+import { type OidcClientOptions, OidcClient } from "./oidc/OidcClient"
 
 export {
-    OidcClientOptions,
+    type OidcClientOptions,
     OidcClient,
 }
 
